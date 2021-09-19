@@ -1,0 +1,19 @@
+{
+    "name": "adriencamara_3_26082021",
+    "version": "1.0.0",
+    "description": "Dynamisez une page web avec des animations CSS.",
+    "main": "index.html",
+    "scripts": {
+        "sass": "sass --watch ./sass/main.scss:./public/css/style.css --style compressed"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://gitlab.com/adriendev/adriencamara_3_26082021.git"
+    },
+    "author": "Adrien Camara",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://gitlab.com/adriendev/adriencamara_3_26082021/issues"
+    },
+    "homepage": "https://gitlab.com/adriendev/adriencamara_3_26082021"
+}
